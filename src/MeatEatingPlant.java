@@ -1,10 +1,9 @@
 import javax.swing.*;
 
-public class KöttätandeVäxt extends Greenest {
-    public KöttätandeVäxt(String plantName, double plantHeight) {
+public class MeatEatingPlant extends Greenest {
+    public MeatEatingPlant(String plantName, double plantHeight) {
         super(plantName, plantHeight);
     }
-
 
     /*
      **  Nedan är Interface implemeterat från superklass Greenest som subklass också ärver.

@@ -1,11 +1,11 @@
 import javax.swing.*;
 
-public class Kaktus extends Greenest {
+public class Cactus extends Greenest {
     /*
      ** Instansvariabel inkapslad och även satt som final då det inte kommer ändras för aktuell planta.
      */
 
-    public Kaktus(String plantName, double plantHeight) {
+    public Cactus(String plantName, double plantHeight) {
         super(plantName, plantHeight);
 
     }
